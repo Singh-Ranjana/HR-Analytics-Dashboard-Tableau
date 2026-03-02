@@ -42,5 +42,6 @@ Male attrition slightly exceeds female
 Job satisfaction varies significantly by job role         
 Majority workforce lies in mid-career age range
 
-
+Dashboard Preview
+<img width="1306" height="736" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/c0b3ae75-1ff6-44d0-89aa-cdda053f83ba" />
 
