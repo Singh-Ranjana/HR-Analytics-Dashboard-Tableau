@@ -1,6 +1,4 @@
 # HR-Analytics-Dashboard-Tableau
-Interactive HR Analytics Dashboard in Tableau analyzing attrition trends, workforce demographics, and job satisfaction metrics.
-
 Project Overview
 
 The HR Analytics Dashboard is an interactive Tableau project designed to analyze employee attrition, workforce demographics, and job satisfaction trends.
